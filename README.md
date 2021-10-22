@@ -1,5 +1,9 @@
 # __BERT-SMILES__
-#### This is graduation project, molecular property prediction(QSAR). SMILES means that change molecules to strings using ASCII codes. but, this methods have difficulty in identifying molecular similarity. so, we adds molecular similarity information using tanimoto coefficient(SSP) and applys to BERT Model because SMILES is strings.
+#### This is graduation project, molecular property prediction(QSAR). 
+<br>
+SMILES means that change molecules to strings using ASCII codes. 
+But, this methods have difficulty in identifying molecular similarity. 
+So, we adds molecular similarity information using tanimoto coefficient(SSP) and applys to BERT Model because SMILES is strings.
 
 <br>
 
